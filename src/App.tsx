@@ -6,6 +6,9 @@ import CandidateSearch from './pages/CandidateSearch';
 import SavedCandidates from './pages/SavedCandidates';
 import ErrorPage from './pages/ErrorPage';
 
+
+
+
 const App: React.FC = () => {
   return (
     <Router>
