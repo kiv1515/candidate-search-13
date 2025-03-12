@@ -40,14 +40,11 @@ npm start
 
 ## Deployed Link
 
-https://candidate-search-hpum.onrender.com
+
 
 
 ## License 
 
 This project is licensed under the MIT License.
 
-## Contact 
 
-GitHub: https://github.com/AOF-O5-1
-Email: marcusfajemisin@gmail.com
